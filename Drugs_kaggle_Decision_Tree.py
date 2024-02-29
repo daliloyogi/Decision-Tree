@@ -5,7 +5,7 @@ import seaborn as sns
 # mengimpor kelas tempat DT diimplementasikan 
 from sklearn.tree import DecisionTreeClassifier as DTC, DecisionTreeRegressor as DTR 
 
-# mengimpor dataset drugs
+# import drugs dataset
 drugs = pd.read_csv('/content/archive.zip')
 drugs
 
