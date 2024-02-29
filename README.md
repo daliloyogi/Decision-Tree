@@ -1,4 +1,4 @@
-https://www.kaggle.com/code/hossamahmedsalah/decision-tree-msp/notebook#Cross-Validation-
+https://www.kaggle.com/code/hossamahmedsalah/decision-tree-msp/
 
 In this practice session, I delved into the world of decision trees using the Kaggle dataset titled "Drugs A, B, C, X, Y for Decision Trees". This dataset intrigued me with its potential to explore the decision-making process in determining the appropriate drug treatment based on various patient attributes. As I embarked on this journey, several key insights emerged, shaping my understanding of decision trees and their applications.
 
