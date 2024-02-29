@@ -1,6 +1,6 @@
 https://www.kaggle.com/code/hossamahmedsalah/decision-tree-msp/
 
-In this exercise I use the dataset on Kaggle "Drugs A, B, C, data analysis. These steps include data collection, model building, evaluation, and visualization of results.
+In this exercise I use the dataset on Kaggle "Drugs A, B, C, data analysis". These steps include data collection, model building, evaluation, and visualization of results.
 
 Start by downloading, then importing the dataset and carrying out initial exploration to understand the structure and type of data in each column. This helps me figure out what kind of transformation is required for categorical data, which is then encoded using label encoding to convert it into a numeric format that can be processed by the model.
 
