@@ -1,3 +1,5 @@
+https://www.kaggle.com/code/hossamahmedsalah/decision-tree-msp/notebook#Cross-Validation-
+
 In this practice session, I delved into the world of decision trees using the Kaggle dataset titled "Drugs A, B, C, X, Y for Decision Trees". This dataset intrigued me with its potential to explore the decision-making process in determining the appropriate drug treatment based on various patient attributes. As I embarked on this journey, several key insights emerged, shaping my understanding of decision trees and their applications.
 
 Firstly, I learned about the fundamentals of decision trees as a powerful tool for classification and regression tasks. Decision trees mimic the human decision-making process by breaking down a complex decision into a series of simpler decisions based on features present in the dataset. Each decision point, represented by a node, splits the data into subsets, leading to the formation of branches until a prediction or decision is reached at the leaf nodes.
